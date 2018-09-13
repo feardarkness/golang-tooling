@@ -26,7 +26,13 @@ $ go list -f '{{ .Imports }}'
 $ go list -f '{{ .Imports }}' fmt
 $ go list -f '{{ join .Imports "\n" }}' fmt
 
+- Para obtener la documentación
+$ go doc
+$ go doc fmt
+$ go doc fmt Printf
 
+- Podemos publicar toda la documentación q tenemos
+$ godoc -http :6060
 
 ##
 
