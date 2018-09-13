@@ -1,6 +1,6 @@
 # Tooling
 
-## Useful commands
+## Comandos útiles
 - Para construir para el sistema operativo actual
 $ go build
 
@@ -33,7 +33,5 @@ $ go doc fmt Printf
 
 - Podemos publicar toda la documentación q tenemos
 $ godoc -http :6060
-
-##
 
 
