@@ -1,0 +1,6 @@
+FlameGraph/
+archivo.svg
+debug
+prof.cpu
+torch.svg
+.vscode
